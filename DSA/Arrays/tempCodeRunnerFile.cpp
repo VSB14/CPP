@@ -1,2 +1,1 @@
-s.back()[1])
-        //     continue;
+ left + right 
